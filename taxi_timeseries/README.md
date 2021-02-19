@@ -12,11 +12,9 @@
 - lightgbm
 
 Был проведён предварительный анализ временного ряда на наличие тренда и сезонности. На основании выводов были сгенерированы новые признаки, на которых обучалась модель.
-![Alt text](https://github.com/LadaChernenko/yandex.practikum_projects/tree/main/taxi_timeseries/timeseries_img.png?raw=true! "Title")
 
-<p align="center">
-  <img src="https://github.com/LadaChernenko/yandex.practikum_projects/tree/main/taxi_timeseries/timeseries_img.png" width="350" title="img">
-</p>
+
+![timeseries plot](timeseries_img.png)
 ### Вывод:
 
 - Наименьшее значение RMSE показывает модель `RandomForestRegressor` со значением **43.5918**
