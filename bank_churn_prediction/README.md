@@ -1,7 +1,7 @@
 # Предсказание оттока клиентов банка
 
-По историческим данным о поведении клиентов бнка был спрогнозирован отток.
-Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
+По историческим данным о поведении клиентов банка был спрогнозирован отток.
+
 
 ### Библиотеки:
 - pandas
